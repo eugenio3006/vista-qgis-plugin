@@ -1,0 +1,18 @@
+[general]
+name=VISTA
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+supportsQt6=True
+description=Plugin per ispezione stradale: assegna progressive, popola codici difetti e genera report Word.
+version=2.0.0
+author=Eugenio Liccardi
+email=eugenio.liccardi@ansfisa.gov.it
+about=Workflow completo per l'ispezione stradale: assegnazione progressive ettometriche, popolamento codici difetti (Capitolo/Sottocapitolo/Descrizione), generazione report Word con foto. Compatibile con QGIS 3.x (Qt5) e QGIS 4.x (Qt6).
+tracker=https://github.com/eugenio3006/vista-qgis-plugin/issues
+repository=https://github.com/eugenio3006/vista-qgis-plugin
+tags=strade,ispezione,foto,report
+homepage=https://github.com/eugenio3006/vista-qgis-plugin
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
