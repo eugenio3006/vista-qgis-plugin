@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="VISTA" version="2.0.0">
+  <pyqgis_plugin name="VISTA" version="2.1.0">
     <description>Plugin per ispezione stradale: assegna progressive, popola codici difetti e genera report Word.</description>
     <about>Workflow completo per l'ispezione stradale: assegnazione progressive ettometriche, popolamento codici difetti (Capitolo/Sottocapitolo/Descrizione), generazione report Word con foto. Compatibile con QGIS 3.x (Qt5) e QGIS 4.x (Qt6).</about>
-    <version>2.0.0</version>
+    <version>2.1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
     <homepage>https://github.com/eugenio3006/vista-qgis-plugin</homepage>
     <file_name>vista_v2.zip</file_name>
     <icon>vista_v2/icon.png</icon>
     <author_name>Eugenio Liccardi</author_name>
-    <download_url>https://github.com/eugenio3006/vista-qgis-plugin/releases/download/v2.0.0/vista_v2.zip</download_url>
+    <download_url>https://github.com/eugenio3006/vista-qgis-plugin/releases/download/v2.1.0/vista_v2.zip</download_url>
     <uploaded_by>Eugenio Liccardi</uploaded_by>
     <create_date>2026-07-09</create_date>
     <update_date>2026-07-09</update_date>
